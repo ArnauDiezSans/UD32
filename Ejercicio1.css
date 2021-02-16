@@ -1,0 +1,43 @@
+.principal {
+  width:800px;
+  background:orange;
+  height:200px;
+  display:flex;
+  flex-wrap:nowrap;
+  align-items:center;
+  justify-content:center;
+  font-size:70px;
+  text-align:center;
+}
+
+#dice1 {
+  background:white;
+  width:120px;
+  height:120px;
+}
+
+#plus {
+  background:black;
+  width:120px;
+  height:120px;
+  border: 3px solid orange;
+  color:white;
+}
+#dice2 {
+  background:white;
+  width:120px;
+  height:120px;
+}
+#equal {
+  background:black;
+  width:120px;
+  height:120px;
+  border: 3px solid orange;
+  color:white;
+}
+
+#sum {
+  background:white;
+  width:120px;
+  height:120px;
+}
